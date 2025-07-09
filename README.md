@@ -1,9 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Bhargavi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align=”right” alt=”coding” Width=”400” src=”https://images.app.goo.gl/CD1jYBsjfj7jkbpDA”>
-
+<h3 align="center">A passionate frontend developer from India</h3
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" style="float: right;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavikilari&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavikilari" /> </p>
 
 - 🌱 I’m currently learning **React, service now**
